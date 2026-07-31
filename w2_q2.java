@@ -1,4 +1,4 @@
-class Book {
+class book {
   String ti;
   String au;
   double pr;
@@ -10,7 +10,7 @@ class Book {
     }
 }
 
-public class q2_book {
+public class w2_q2 {
     public static void main(String[] args) {
         book b1 = new book();
         b1.ti = "Animal Farm";
